@@ -2,18 +2,18 @@
 
 ## Lenguajes de Programación
 
-![Python](./icons/python.svg)
-![JavaScript](./icons/javascript.svg)
-![HTML](./icons/html5.svg)
-![CSS](./icons/css3.svg)
+<img src="icons/python.svg" alt="Python" width="50" height="50"/>
+<img src="icons/javascript.svg" alt="JavaScript" width="50" height="50"/>
+<img src="icons/html5.svg" alt="HTML5" width="50" height="50"/>
+<img src="icons/css3.svg" alt="CSS3" width="50" height="50"/>
 
 ## Herramientas y Tecnologías
 
-![Git](./icons/git.svg)
-![GitHub](./icons/github.svg)
-![VSCode](./icons/vscode.svg)
+<img src="icons/git.svg" alt="Git" width="50" height="50"/>
+<img src="icons/github.svg" alt="GitHub" width="50" height="50"/>
+<img src="icons/vscode.svg" alt="VSCode" width="50" height="50"/>
 
 ## Bases de Datos
 
-![MySQL](./icons/mysql.svg)
-![PostgreSQL](./icons/postgresql.svg)
+<img src="icons/mysql.svg" alt="MySQL" width="50" height="50"/>
+<img src="icons/postgresql.svg" alt="PostgreSQL" width="50" height="50"/>
